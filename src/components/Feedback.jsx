@@ -6,10 +6,10 @@ const Feedback = () => {
             <Wrapper>
                 <div className="max-w-[831px] mx-auto flex flex-col lg:flex-row">
                     <div className="mr-0 lg:mr-[65px] ">
-                        <img src="../src/assets/Image (Desktop).svg" alt="" />
+                        <img src="/assets/Image (Desktop).svg" alt="" />
                     </div>
                     <div className="max-w-[418px] pt-[45px]">
-                        <img className="mb-[20px]" src="../src/assets/Quote icon.svg" alt="" />
+                        <img className="mb-[20px]" src="/assets/Quote icon.svg" alt="" />
                         <p className="mb-[45px] font-semibold text-[#2D2D2D] leading-7">
                             We love using "PETWORLD" products.  Environmentally friendly and sustainable.
                             We have the sustainable dog bowls and regularly use the mint scented poo bags which were all such great value for money.

@@ -6,7 +6,7 @@ const Navbar = () => {
       <Wrapper>
         <div className="h-[100px] flex items-center justify-between">
           <div className="flex">
-            <img src="../src/assets/Logo illustration.svg" alt="logo" />
+            <img src="/assets/Logo illustration.svg" alt="logo" />
             <h1 className="uppercase text-[20px] font-bold text-[#2D2D2D] ml-[10px]">petworld</h1>
           </div>
           <div className="hidden lg:block">

@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="flex justify-between flex-col lg:flex-row">
                     <div className="max-w-[469px]">
                         <div className="flex mb-[40px] lg:mb-[80px]">
-                            <img src="../src/assets/Logo illustration.svg" alt="logo" />
+                            <img src="/assets/Logo illustration.svg" alt="logo" />
                             <h5 className="uppercase text-[20px] font-black text-[#2D2D2D] ml-[10px]">petworld</h5>
                         </div>
                         <p className="mb-[15px]">Updates right to your Inbox</p>
@@ -49,10 +49,10 @@ const Footer = () => {
                         </div>
                         <div className=" lg:mt-[80px] lg:float-right">
                             <div className="w-[180px] flex justify-between">
-                                <img src="../src/assets/Facebook.svg" alt="" />
-                                <img src="../src/assets/Linkedin.svg" alt="" />
-                                <img src="../src/assets/Instagram.svg" alt="" />
-                                <img src="../src/assets/Twitter.svg" alt="" />
+                                <img src="/assets/Facebook.svg" alt="" />
+                                <img src="/assets/Linkedin.svg" alt="" />
+                                <img src="/assets/Instagram.svg" alt="" />
+                                <img src="/assets/Twitter.svg" alt="" />
                             </div>
                         </div>
                     </div>

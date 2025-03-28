@@ -11,7 +11,7 @@ const Header = () => {
                         <button className="w-[203px] h-[64px] bg-[#F8D57E] rounded-[10px] text-[#2D2D2D] mb-[60px]">Get Started</button>
                     </div>
                     <div>
-                        <img src="../src/assets/Image.svg" alt="dog" />
+                        <img src="/assets/Image.svg" alt="dog" />
                     </div>
 
                 </div>

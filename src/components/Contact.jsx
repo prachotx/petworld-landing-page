@@ -11,7 +11,7 @@ const Contact = () => {
                         <button className="w-[203px] h-[64px] bg-[#F8D57E] text-[#2D2D2D] rounded-lg mb-[58px] lg:mb-0">Contact us</button>
                     </div>
                     <div>
-                        <img src="../src/assets/dog.svg" alt="dog" />
+                        <img src="/assets/dog.svg" alt="dog" />
                     </div>
                 </div>
             </Wrapper>
